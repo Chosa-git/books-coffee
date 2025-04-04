@@ -1,0 +1,1 @@
+# Books Coffee Frontend (Next.js + PWA)
